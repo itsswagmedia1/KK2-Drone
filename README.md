@@ -2,7 +2,7 @@
 
 # 🚁 Quadcopter Drone Development using KK2.1.5 Flight Controller
 
-![Drone Image](images/drone-overview.jpg)
+![Drone Image](drone.jpg)
 
 ## 📌 Project Overview
 
